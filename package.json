@@ -1,6 +1,6 @@
 {
   "name": "@fernandobarrosd/eslint-config-react-ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "author": {
     "name": "Fernando de Barros",
