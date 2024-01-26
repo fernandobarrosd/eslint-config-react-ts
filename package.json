@@ -1,0 +1,33 @@
+{
+  "name": "@fernandobarrosd/eslint-config-react-ts",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": {
+    "name": "Fernando de Barros",
+    "email": "fdebarros0910-2004@hotmail.com",
+    "url": "https://github.com/fernandobarrosd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandobarrosd/eslint-config-react-ts"
+  },
+  "homepage": "https://github.com/fernandobarrosd/eslint-config-react-ts",
+  "keywords": [
+    "typescript",
+    "ts",
+    "eslint",
+    "react-js",
+    "config"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.19.1",
+    "@typescript-eslint/parser": "^6.19.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint": "^8.56.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=8",
+    "typescript": ">=5"
+  }
+}
